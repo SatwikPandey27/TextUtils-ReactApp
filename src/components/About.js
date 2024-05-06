@@ -34,27 +34,22 @@ export default function About() {
         <h1 className="my-3">About Us</h1>
         <div className="card-group">
             <div className="card" style={myStyle}>
-                <img src="..." className="card-img-top" alt="..."/>
                 <div className="card-body">
-                <h5 className="card-title">Card title</h5>
-                <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p className="card-text">Last updated 3 mins ago</p>
+                <h5 className="card-title">About this project</h5>
+                <p className="card-text">Spruce up your writing with this React text utility project! It provides a one-stop shop for text manipulation. Convert between upper and lower case, effortlessly copy text to your clipboard, and clean up unwanted spaces. With a click, you can eliminate extra spaces, clear all whitespace, or even start fresh with a blank text box.</p>
                 </div>
             </div>
             <div className="card" style={myStyle}>
-                <img src="..." className="card-img-top" alt="..."/>
                 <div className="card-body">
-                <h5 className="card-title">Card title</h5>
-                <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                <p className="card-text">Last updated 3 mins ago</p>
+                <h5 className="card-title">About Me</h5>
+                <p className="card-text">Hey there! I'm Satwik Pandey, a highly motivated web developer with specialisation in backend systems development using Django REST framework. Passionate in Machine Learning and AI related disciplines. 
+                Naturally vurious and hardworking, always finding ways to solve programmatic problems.</p>
                 </div>
             </div>
             <div className="card" style={myStyle}>
-                <img src="..." className="card-img-top" alt="..."/>
                 <div className="card-body">
-                <h5 className="card-title">Card title</h5>
-                <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-                <p className="card-text">Last updated 3 mins ago</p>
+                <h5 className="card-title">Learn more!</h5>
+                <p className="card-text"> To learn more about me visit me @github.com/SatwikPandey27</p>
                 </div>
             </div>
         </div>
